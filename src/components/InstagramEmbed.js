@@ -30,7 +30,7 @@ export default function CoverFlow() {
           slidesPerView={3}
           breakpoints={{
             100: {
-              slidesPerView: 1,
+              slidesPerView: 2,
             },
             500: {
               slidesPerView: 3,

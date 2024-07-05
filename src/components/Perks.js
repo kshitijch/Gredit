@@ -9,7 +9,7 @@ import Edit from '../assets/edit.gif'
 
 const Perks = () => {
     return (
-        <div className=' py-20'>
+        <div className='bg-white py-20'>
             <div className='px-2 flex justify-center text-center text-black pt-28 pb-32 sm:text-7xl text-4xl font-bold'><div><img width={130} className="absolute sm:w-16 " src={Star} alt="" /><h1><span className=' relative text-blue-700 font-extrabold sm:text-8xl text-5xl'>Perks </span>So Good</h1><h1>you will never go back</h1></div></div>
 
             <div class="max-w-6xl mx-auto font-[sans-serif] text-[#333]">

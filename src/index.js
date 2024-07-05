@@ -14,6 +14,7 @@ import Perks from './components/Perks';
 import Contact from './components/Contact';
 import { BrowserRouter } from 'react-router-dom';
 import CTA from './components/CTA';
+import Testimonials from './components/Testimonials';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -22,7 +23,8 @@ root.render(
 
     <Hero />
     <InstagramEmbed />
-    <Tabs />
+    {/* <Tabs /> */}
+    <Testimonials/>
     {/* <Clients /> */}
     <Steps/>
     <Perks/>
