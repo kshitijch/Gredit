@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Gredit/static/css/main.649cf4f1.css",
-    "main.js": "/Gredit/static/js/main.1ecb546e.js",
+    "main.css": "/Gredit/static/css/main.f1fbb829.css",
+    "main.js": "/Gredit/static/js/main.d7bfddb7.js",
     "static/js/453.fe10fbc8.chunk.js": "/Gredit/static/js/453.fe10fbc8.chunk.js",
     "static/media/V1.mp4": "/Gredit/static/media/V1.00ec50cb640a37c6ddba.mp4",
     "static/media/V2.mp4": "/Gredit/static/media/V2.9308d49deabd1d563541.mp4",
@@ -13,16 +13,21 @@
     "static/media/price-tag.gif": "/Gredit/static/media/price-tag.514162f72cbc76d1bd1a.gif",
     "static/media/E-CELL LOGO.png": "/Gredit/static/media/E-CELL LOGO.b1749b7a8b0f10d2167f.png",
     "static/media/edit.gif": "/Gredit/static/media/edit.d1af5a5f93ad227d067b.gif",
+    "static/media/ae.png": "/Gredit/static/media/ae.04ad4077b5df37cfe34e.png",
+    "static/media/pr.png": "/Gredit/static/media/pr.1277fd15ed94bb2da3a1.png",
+    "static/media/ai.png": "/Gredit/static/media/ai.e2c7e1c4062346ffa9da.png",
     "static/media/humanitarian.gif": "/Gredit/static/media/humanitarian.cc184a302415e141c43c.gif",
+    "static/media/ps.png": "/Gredit/static/media/ps.da954ba53ac392ade020.png",
+    "static/media/dav.png": "/Gredit/static/media/dav.6af2c0d1dddbd16f9dd4.png",
     "static/media/brochure.png": "/Gredit/static/media/brochure.19a409e96bc03344836e.png",
     "index.html": "/Gredit/index.html",
     "static/media/star.svg": "/Gredit/static/media/star.afa3ed64d692b2cb3d4452ccbb2b91c3.svg",
-    "main.649cf4f1.css.map": "/Gredit/static/css/main.649cf4f1.css.map",
-    "main.1ecb546e.js.map": "/Gredit/static/js/main.1ecb546e.js.map",
+    "main.f1fbb829.css.map": "/Gredit/static/css/main.f1fbb829.css.map",
+    "main.d7bfddb7.js.map": "/Gredit/static/js/main.d7bfddb7.js.map",
     "453.fe10fbc8.chunk.js.map": "/Gredit/static/js/453.fe10fbc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.649cf4f1.css",
-    "static/js/main.1ecb546e.js"
+    "static/css/main.f1fbb829.css",
+    "static/js/main.d7bfddb7.js"
   ]
 }
